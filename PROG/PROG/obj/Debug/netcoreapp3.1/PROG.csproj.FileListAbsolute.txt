@@ -1,0 +1,13 @@
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.exe
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.deps.json
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.runtimeconfig.json
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.runtimeconfig.dev.json
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.dll
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\bin\Debug\netcoreapp3.1\PROG.pdb
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.csprojAssemblyReference.cache
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.AssemblyInfoInputs.cache
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.AssemblyInfo.cs
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.csproj.CoreCompileInputs.cache
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.dll
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.pdb
+C:\Users\ryand\OneDrive\Documenten\MediaCollege\Leerjaar 2\F2M6PROG\F2M6PROG\PROG\PROG\obj\Debug\netcoreapp3.1\PROG.genruntimeconfig.cache
