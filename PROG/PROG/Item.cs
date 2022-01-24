@@ -4,13 +4,31 @@ using System.Text;
 
 namespace PROG
 {
-    class Item
+    public enum Rarity
+    {
+        common,
+        uncommon,
+        rare,
+        epic,
+        legendary
+    }
+
+    abstract class Item
     {
         public string Name { get; private set; }
+        public Rarity Rarity { get; private set; }
 
-        public Item(string name)
+        public Item(string aName, Rarity rarity)
         {
-            Name = name;
+            Name = aName;
         }
+
+        public string GetName()
+        {
+            Console.WriteLine("F");
+            return Name;
+        }
+
+        abstract public void use();
     }
 }

@@ -5,19 +5,33 @@ namespace PROG
 {
     class Program
     {
+        List<string> inputArrowInput = new List<string>()
+        {
+            "AskType",
+            "AskName"
+        };
         static void Main(string[] args)
         {
-            Item shoe = new Item("p");
-            Item apple = new Item("Sweet Apple");
+            Item BeginText = new Potion("beginText", Rarity.common);
+            Item PoisonPotion = new Potion("Poison potion", Rarity.uncommon);
+            Item MagicPotion = new Potion("Magic potion", Rarity.rare);
+            Item MagicHat = new Clothes("Magic Hat", Rarity.legendary);
 
-            Inventory inventory = new Inventory();
+            Catalogue catalogue = new Catalogue();
 
-            inventory.AadItem(shoe);
-            inventory.AadItem(apple);
+            catalogue.AadItem(PoisonPotion);
+            catalogue.AadItem(MagicPotion);
+            catalogue.AadItem(MagicHat);
 
-            Console.WriteLine(inventory.GetItems(0).Name);
-            Console.WriteLine(inventory.GetItems(1).Name);
-            //Console.WriteLine("Test");
+            catalogue.startItem = BeginText;
+
+            
+            //Console.WriteLine("");
+            //Console.ReadLine();
+            while (true)
+            {
+                catalogue.RunArrowInput("ItemList");
+            }
         }
     }
 }
